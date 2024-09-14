@@ -1,0 +1,1 @@
+En el proyecto se implementan el modelo screenplay, siendo una buena pagina para realizar practicas
