@@ -1,1 +1,13 @@
-En el proyecto se implementan el modelo screenplay, siendo una buena pagina para realizar practicas
+En el reto se pude observar
+
+1. En el proyecto se aplica el patron de automatizacion screen play con serenity bdd
+   siendo el proyecto un buen ejemplo de como se aplican las tasks, interaction, question, pages y como se utilizan
+   las variabes en los features.
+
+2. La pagina en la que se realiza la prueba contiene varios controles para poder aplicar diferentes formas para
+   crear los targets en las pages como por ejemplo:id, xpath, name, y tambien crear objetos dinamicos que sean reutilizables.
+
+3. El reto presenta un espacio para desarrollar un proyecto base que se podria extender con archivos de fuente de datos.
+
+
+
